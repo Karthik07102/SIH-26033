@@ -49,7 +49,7 @@ Model Training: Train regression and time-series forecasting models (such as ARI
 Core Marketplace Development: Build user authentication, FPO inventory management, and direct order-matching workflows.
 
 ## Feasibility and Viability
-Remove These Lines
+
 1. Analysis of the feasibility of the idea
    High technical feasibility due to open-source mapping tools (OSM/OpenRouteService) and pre-trained machine learning frameworks.Strong socio-economic viability as digital smartphone penetration among Indian farmers and FPOs has grown exponentially, lowering adoption barriers.
 2. Potential challenges and risks
@@ -59,7 +59,7 @@ Partnering with local FPOs, NGOs, and Krishi Vigyan Kendras (KVKs) to conduct on
 Offering immediate digital payment settlements and better margins to incentivize farmers to transition to the platform.
 
 ## Impact and Benefits
-Remove These Lines
+
 1. Potential impact on the target audience
    For Farmers: Empowers producers with direct price-setting control, wider market reach beyond local mandis, and guaranteed fair returns (estimated 20-30% profit increase).For Consumers: Ensures access to fresher, pesticide-tracked produce at stable prices by cutting out multi-layered middleman markups.For the Ecosystem: Reduces food wastage
 2. Benefits of the solution (social, economic, environmental, etc.)
@@ -68,6 +68,6 @@ Remove These Lines
 
 
 ## Research and References
-Remove These Lines
+
 1. Details / Links of the reference and research work
    Ministry of Consumer Affairs, Food & Public Distribution – Agricultural Supply Chain Reports & Direct Marketing Guidelines.Academic studies on "Spatial Route Optimization for Perishable Agricultural Goods Distribution".FPO (Farmer Producer Organization) Digitization Frameworks published by NABARD.
