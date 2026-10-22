@@ -36,7 +36,7 @@ Benefits:
    Predictive Demand Forecasting: Utilizes machine learning models trained on historical consumption data, seasonal trends, and weather patterns to predict regional demand shifts and optimize crop cultivation schedules.AI-Powered Route & Fleet Optimization: Implements advanced spatial routing algorithms (such as genetic algorithms or vehicle routing optimization) to consolidate smallholder harvests, minimize fuel consumption, and reduce transit times for perishables.
 
 ## Technical Approach
-Remove These Lines
+
 1. Technologies to be used (e.g. programming languages, frameworks, hardware)
 
    Frontend: Flutter (for cross-platform mobile app support with multi-lingual capabilities) and React.js (for the web-based consumer and FPO dashboard).
